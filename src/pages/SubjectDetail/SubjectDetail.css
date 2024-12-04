@@ -8,6 +8,12 @@
   gap: 2rem;
 }
 
+@media (max-width: 650px) {
+  .subject-detail {
+    max-width: 90%;
+  }
+}
+
 .subject-detail h1 {
   color: #111827;
   font-size: 2rem;
